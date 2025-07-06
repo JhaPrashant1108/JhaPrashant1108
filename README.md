@@ -30,17 +30,6 @@ Welcome to my GitHub! I'm a passionate Software Engineer with a focus on **backe
 - Prometheus, Grafana
 - GitHub Actions, Jenkins
 
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 💸 **Expense Tracker** | A personal finance app to manage and split shared expenses | Spring Boot, React Native, RabbitMQ |
-| 🔐 **Auth Module** | A reusable Spring Boot module for login/logout/auth workflows | Spring Boot, JWT |
-| 📦 **Raspberry Pi + MySQL** | Cost-effective cloud alternative for self-hosted storage | Raspberry Pi, MySQL, Spring Boot |
-
----
 
 ## 📈 GitHub Stats
 
@@ -54,6 +43,7 @@ Welcome to my GitHub! I'm a passionate Software Engineer with a focus on **backe
 ## 📫 Get in Touch
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/JhaPrashant1108/)
+- 🔗 [Instagram](https://www.instagram.com/jhaprashant1108/)
 - 📧 Email: prashant.jha0008@gmail.com
 
 Thanks for stopping by! Happy coding! 😄
