@@ -34,8 +34,8 @@ Welcome to my GitHub! I'm a passionate Software Engineer with a focus on **backe
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashantjha01&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantjha01&theme=tokyonight" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jhaprashant1108&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhaprashant1108&theme=tokyonight" alt="GitHub Streak" height="180"/>
 </p>
 
 ---
